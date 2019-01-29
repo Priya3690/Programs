@@ -1,4 +1,4 @@
-*.exe
-*.out
-*.class
-*.pyc
+C#/*.exe
+Cprograms/*.out
+Java/*.class
+Python/*.pyc
